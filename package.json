@@ -1,0 +1,24 @@
+{
+  "name": "apache-arrow-typescript",
+  "version": "1.0.0",
+  "description": "Apache Arrow TypeScript Compilation Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flekschas/apache-arrow-typescript.git"
+  },
+  "keywords": [],
+  "author": "Fritz Lekschas <code@lekschas.de> (http://lekschas.de/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flekschas/apache-arrow-typescript/issues"
+  },
+  "homepage": "https://github.com/flekschas/apache-arrow-typescript#readme",
+  "devDependencies": {
+    "apache-arrow": "^6.0.1",
+    "typescript": "^4.5.2"
+  }
+}
